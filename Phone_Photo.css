@@ -1,0 +1,273 @@
+.mediaViewInfo {
+	--web-view-name: Phone-Photo;
+	--web-view-id: Phone-Photo;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Phone-Photo;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Phone-Photo {
+	position: absolute;
+	width: 414px;
+	height: 4312px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Phone-Photo;
+	--web-view-id: Phone-Photo;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_2 {
+	fill: rgba(245,179,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 685px;
+	height: 160px;
+	left: -128px;
+	top: 0px;
+}
+#Ruff_Life__Golden_Retrievers {
+	left: 15.5px;
+	top: 4.5px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Dancing Script;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#About_Us {
+	position: absolute;
+	width: 414.5px;
+	height: 82px;
+	left: -0.5px;
+	top: 169px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 414.505px;
+	height: 3px;
+	left: 0px;
+	top: 44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 82px;
+	left: 115px;
+	top: 0px;
+}
+#Photos {
+	left: 149px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Dancing Script;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 414px;
+	height: 46px;
+	left: 0px;
+	top: 4266px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(245,179,0,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+}
+#About_Us_s {
+	left: 22px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Phone_AboutUs.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Photos_t {
+	left: 343px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Deposit_Info {
+	left: 164px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Phone_Deposit.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#_______ {
+	left: 199px;
+	top: 55px;
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+#cokepuppies {
+	position: absolute;
+	width: 488px;
+	height: 390px;
+	left: -37px;
+	top: 297px;
+	overflow: visible;
+}
+#Image_2 {
+	position: absolute;
+	width: 414px;
+	height: 414px;
+	left: 0px;
+	top: 698px;
+	overflow: visible;
+}
+#Image_1 {
+	position: absolute;
+	width: 440px;
+	height: 440px;
+	left: -13px;
+	top: 1140px;
+	overflow: visible;
+}
+#Image_7 {
+	position: absolute;
+	width: 432px;
+	height: 576px;
+	left: -9px;
+	top: 3690px;
+	overflow: visible;
+}
+#Image_6 {
+	position: absolute;
+	width: 414px;
+	height: 552px;
+	left: 0px;
+	top: 3138px;
+	overflow: visible;
+}
+#Image_5 {
+	position: absolute;
+	width: 414px;
+	height: 358px;
+	left: 0px;
+	top: 2781px;
+	overflow: visible;
+}
+#Image_8 {
+	position: absolute;
+	width: 414px;
+	height: 552px;
+	left: 0px;
+	top: 1987px;
+	overflow: visible;
+}
+#Image_4 {
+	position: absolute;
+	width: 414px;
+	height: 311px;
+	left: 0px;
+	top: 2470px;
+	overflow: visible;
+}
+#Image_9 {
+	position: absolute;
+	width: 594px;
+	height: 446px;
+	left: -113px;
+	top: 1570px;
+	overflow: visible;
+}
